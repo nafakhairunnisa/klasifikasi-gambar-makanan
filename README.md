@@ -21,13 +21,19 @@ Dataset diambil dari platform Kaggle milik akun Harish Kumardatalab. Tautan ke d
 
 ## **Instalasi & Menjalankan Notebook**
 
-1. Install dependencies:
+1. Clone this repository to your local computer
+
+```
+git@github.com:nafakhairunnisa/klasifikasi-gambar-makanan.git
+```
+
+2. Install dependencies:
 
 ```
 pip install -r requirements.txt
 ```
 
-2. Jalankan Notebook
+3. Jalankan Notebook
    Buka file notebook.ipynb menggunakan salah satu dari:
 
 - Jupyter Notebook (via terminal):
