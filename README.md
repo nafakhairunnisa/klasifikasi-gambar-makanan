@@ -30,6 +30,7 @@ git@github.com:nafakhairunnisa/klasifikasi-gambar-makanan.git
 2. Install dependencies:
 
 ```
+cd klasifikasi-gambar-makanan
 pip install -r requirements.txt
 ```
 
