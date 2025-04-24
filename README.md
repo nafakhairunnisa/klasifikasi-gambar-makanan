@@ -26,6 +26,7 @@ Dataset diambil dari platform Kaggle milik akun Harish Kumardatalab. Tautan ke d
 ```
 git@github.com:nafakhairunnisa/klasifikasi-gambar-makanan.git
 ```
+atau bisa dengan mendownload file zip. Caranya klik tombol **Code** berwarna hijau kemudian klik **Download ZIP**.
 
 2. Install dependencies:
 
